@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.tela{
+    position: relative;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    background-color: red;
+}
+
+.animação{
+    position: absolute;
+    bottom: 50%;
+    
+    background-color: white;
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 40px;
+}
